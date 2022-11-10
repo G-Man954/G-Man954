@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G-Man954
 - 👀 I’m interested in gaming and learning code
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on we design projects
+- 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me insta @glenn.flinchum7
 
 <!---
